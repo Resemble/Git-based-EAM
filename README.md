@@ -1,7 +1,9 @@
 # Git-based-EAM
 
-===============
-This is the docs branch of a Git based EAM project as document managing branch
+This is a repository for a Git based EAM project managment
+
+Building
+--------
 
 TODO
 ----
